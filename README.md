@@ -5,7 +5,7 @@
 <h2>Run with PowerShell (With out Administrator):</h2>
 
 ```PowerShell
-irm https://tinyurl.com/GetListWifiPasswords | iex
+irm https://raw.githubusercontent.com/harrytien107/GetListWifiPasswords/main/GetListWifiPasswords.ps1 | iex
 ```
 <h2> The Wifi password list file will be saved at:</h2>
 
